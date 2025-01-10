@@ -1,3 +1,3 @@
-module belajar_go
+module belajar_golang
 
 go 1.23.4
